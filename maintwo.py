@@ -333,5 +333,5 @@ def main(window):
     quit()
 
 
-if __name__ == "__main__":
+if __name__ == "__maintwo__":
     main(window) 

@@ -117,7 +117,7 @@ class Player(pygame.sprite.Sprite):
 
         # Move vertically 
         self.move(0, self.y_vel)
-        self.handle_vertical_collisions(objects)
+        #self.handle_vertical_collisions(objects)
 
         self.fall_count += 1
         self.update_sprite()
