@@ -1,2 +1,1 @@
-# HackRU
-Python Platformer
+# Python-Platformer
